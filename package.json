@@ -1,0 +1,11 @@
+{
+  "name": "hash-text",
+  "version": "1.0.0",
+  "description": "To run the app you have to open terminal and write the command 'node index.js text.txt' and press Enter.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js text.txt"
+  },
+  "author": "Tengiz Putkaradze",
+  "license": "ISC"
+}
